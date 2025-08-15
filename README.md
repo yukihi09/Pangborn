@@ -1,3 +1,3 @@
 # Pangborn
 
-[Download PDF](Poster_Pangborn.pdf)
+[Download Poster PDF](Poster_Pangborn.pdf)
