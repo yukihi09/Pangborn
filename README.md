@@ -1,3 +1,3 @@
 # Pangborn
 
-[Uploading Poster_Pangborn.pdf…]()
+[Download PDF](Poster_Pangborn.pdf)
